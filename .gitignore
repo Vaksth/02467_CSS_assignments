@@ -1,3 +1,5 @@
 .env
-datasets
-logs
+datasets/*
+!datasets/OpenAlexAPI_researchers_2026-03-02_16-02-10_final.pkl
+logs/*
+!logs/log_2026-03-02_15-54-35.txt
