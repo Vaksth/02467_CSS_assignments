@@ -1,7 +1,9 @@
 .env
 datasets/*
+images/*
 !datasets/OpenAlexAPI_researchers_2026-03-02_16-02-10_final.pkl
 !datasets/D2_2026-03-02_21-50-19_final.pkl
 !datasets/D3_2026-03-02_21-50-19_final.pkl
 logs/*
 !logs/log_2026-03-02_15-54-35.txt
+random_graphs_2026-04-07_22-23-02.pkl
