@@ -1,6 +1,7 @@
 .env
 datasets/*
 images/*
+projectAB_data/*
 !datasets/OpenAlexAPI_researchers_2026-03-02_16-02-10_final.pkl
 !datasets/D2_2026-03-02_21-50-19_final.pkl
 !datasets/D3_2026-03-02_21-50-19_final.pkl
